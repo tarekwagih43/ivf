@@ -17,9 +17,9 @@ const postSchema = new Schema({
         type: Schema.Types.ObjectId,
         ref: 'users'
     },
-    Date: {
+    Date_Time: {
         type: Schema.Types.ObjectId,
-        ref: 'date'
+        ref: 'date_time'
     }
 });
 
