@@ -12,9 +12,7 @@
     "dependencies": {
         "apollo-server": "^2.19.0",
         "graphql": "^15.4.0",
-        "mongoose": "^5.10.15",
-        "mquery": ">=3.2.3"
-
+        "mongoose": "^5.10.15"
     },
     "devDependencies": {
         "nodemon": "^2.0.6"
